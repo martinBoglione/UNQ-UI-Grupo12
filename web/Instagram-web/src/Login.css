@@ -1,0 +1,57 @@
+div {
+    background-color:white;
+}
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #DCDCDC;
+}
+  
+.max-width-padding {
+    max-width: 350px;
+    padding: 10px 10px 10px;
+}
+   
+#formulario { 
+    margin-top: 12px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+ 
+.font-size-weight {
+    font-weight: lighter;
+    font-size: small;
+}
+
+@font-face {
+    font-family: billabong;
+    src:url(Billabong-font.ttf);
+}
+  
+.ig {
+    font-family: billabong;
+    font-size: 100px;
+    color: black;
+    margin-top: 12px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 15px; 
+}
+  
+.disabled {
+    pointer-events: none;
+}
+  
+.linkTo {
+    font-size: small;
+    text-align: center;
+    margin-top: 12px;
+}

@@ -1,0 +1,15 @@
+.ignoreBorder{
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.centrado {
+    margin: auto;
+    width: 50%;
+}
+
+.izq {
+  position: relative;
+  left: 100px;
+}

@@ -1,0 +1,27 @@
+.width {
+    width: 801px;
+}
+
+.margin {
+    margin-bottom: 30px;
+}
+
+.margin-left {
+    margin-left: 15px;
+}
+
+.position-margin {
+    position: absolute;
+    left: 75%;
+    margin-top: 53px;
+}
+
+#rounded-img {
+    border: 1px solid;
+    border-color: grey;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.mayus {display:inline-block}
+.mayus:first-letter {text-transform: uppercase}

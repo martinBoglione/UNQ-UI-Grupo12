@@ -1,0 +1,30 @@
+
+
+#centrador{
+  position: relative;
+  width: 400px;
+
+}
+
+
+
+.Centrado{
+  width: 400px;
+  margin: 2px;
+}
+
+@font-face{
+  font-family: billabong;
+  src:url(Billabong-font.ttf);
+}
+
+.ig{
+  font-family: billabong;
+  font-size: 100px;
+  color: black;
+
+}
+
+.disabled{
+  pointer-events: none;
+}

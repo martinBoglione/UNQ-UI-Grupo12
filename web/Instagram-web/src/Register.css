@@ -1,0 +1,71 @@
+#cajaPrincipal {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #DCDCDC;
+    /*border-image: initial; 
+    border: 1px solid grey;*/
+    max-width: 350px;
+    padding: 10px 10px 10px;
+}
+
+.ig {
+    text-align: center;
+}
+
+.promocion{
+    text-align: center;
+    margin-top: 12px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+    font-size: 17px;
+    font-weight: 600;
+    color: #8e8e8e;
+    line-height: 20px;
+    
+   
+   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+}
+
+#formulario{
+    margin-top: 12px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.font-size-weight {
+    font-weight: lighter;
+    font-size: small;
+}
+
+.margin-top {
+    margin-top: 5px;
+}
+
+.margin-top-btn {
+    margin-top: 15px;
+}
+
+
+#cuentaCreada{
+    font-size: small;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#condiciones {
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    color: #8e8e8e;
+    font-size: 12px;
+}
